@@ -6,7 +6,7 @@
 
 #' 
 #' Analytic solutions for (ground-water) Boussinesq Equation 
-#'
+#' 
 #'
 #' @name boussinesq-package
 #' @aliases boussinesq
