@@ -13,8 +13,7 @@
 
 # Output files from R CMD build
 /*.tar.gz
-# 
-LICENSE
+
 # Output files from R CMD check
 /*.Rcheck/
 
